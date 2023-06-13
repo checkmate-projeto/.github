@@ -1,5 +1,5 @@
 ## Sistema Checkmate - Gerenciamento de Partidas de Xadrez
-Em breve disponível a comunidades brasileiras de Xadrez.
+Em breve disponível a comunidades brasileiras de xadrez.
 
 
 <!--
