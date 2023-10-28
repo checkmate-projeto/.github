@@ -1,4 +1,4 @@
 ## Sistema Checkmate - Gerenciamento de Partidas de Xadrez
 
-Sistema em desenvolvimento
+Sistema em desenvolvimento<br>
 Encerramento em 30/10
